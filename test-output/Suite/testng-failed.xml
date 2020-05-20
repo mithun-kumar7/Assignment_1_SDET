@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.qa.utils.TestListeners"/>
+  </listeners>
+  <test thread-count="5" name="DemoQaTest(failed)">
+    <classes>
+      <class name="com.qa.testCases.HomePageTest">
+        <methods>
+          <include name="droppableTest"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.qa.testCases.HomePageTest -->
+    </classes>
+  </test> <!-- DemoQaTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

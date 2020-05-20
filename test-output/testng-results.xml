@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="121644" started-at="2020-05-17T16:14:17Z" finished-at="2020-05-17T16:16:19Z">
+    <groups>
+    </groups>
+    <test name="DemoQaTest" duration-ms="121644" started-at="2020-05-17T16:14:17Z" finished-at="2020-05-17T16:16:19Z">
+      <class name="com.qa.testCases.AllActivitiesTest">
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="setup" is-config="true" duration-ms="9953" started-at="2020-05-17T16:14:17Z" finished-at="2020-05-17T16:14:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.AllActivitiesTest.contactFormTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="contactFormTest()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="contactFormTest" duration-ms="7526" started-at="2020-05-17T16:14:27Z" finished-at="2020-05-17T16:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactFormTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="tearDown" is-config="true" duration-ms="618" started-at="2020-05-17T16:14:35Z" finished-at="2020-05-17T16:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="setup" is-config="true" duration-ms="6851" started-at="2020-05-17T16:14:35Z" finished-at="2020-05-17T16:14:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.AllActivitiesTest.datePickerTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="datePickerTest()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="datePickerTest" duration-ms="35151" started-at="2020-05-17T16:14:42Z" finished-at="2020-05-17T16:15:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="tearDown" is-config="true" duration-ms="692" started-at="2020-05-17T16:15:17Z" finished-at="2020-05-17T16:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="setup" is-config="true" duration-ms="8734" started-at="2020-05-17T16:15:18Z" finished-at="2020-05-17T16:15:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.AllActivitiesTest.dragAndDropTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="dragAndDropTest()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="dragAndDropTest" duration-ms="8602" started-at="2020-05-17T16:15:27Z" finished-at="2020-05-17T16:15:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDropTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="tearDown" is-config="true" duration-ms="640" started-at="2020-05-17T16:15:35Z" finished-at="2020-05-17T16:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="setup" is-config="true" duration-ms="9697" started-at="2020-05-17T16:15:36Z" finished-at="2020-05-17T16:15:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.AllActivitiesTest.rentCarTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="rentCarTest()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="rentCarTest" duration-ms="5841" started-at="2020-05-17T16:15:46Z" finished-at="2020-05-17T16:15:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rentCarTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="tearDown" is-config="true" duration-ms="662" started-at="2020-05-17T16:15:52Z" finished-at="2020-05-17T16:15:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="setup" is-config="true" duration-ms="7849" started-at="2020-05-17T16:15:52Z" finished-at="2020-05-17T16:16:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.AllActivitiesTest.selectMenuTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectMenuTest()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="selectMenuTest" duration-ms="7459" started-at="2020-05-17T16:16:00Z" finished-at="2020-05-17T16:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMenuTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="tearDown" is-config="true" duration-ms="1209" started-at="2020-05-17T16:16:07Z" finished-at="2020-05-17T16:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="setup" is-config="true" duration-ms="6940" started-at="2020-05-17T16:16:09Z" finished-at="2020-05-17T16:16:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.AllActivitiesTest.selectTableTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selectTableTest()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="selectTableTest" duration-ms="2573" started-at="2020-05-17T16:16:16Z" finished-at="2020-05-17T16:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTableTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.AllActivitiesTest@17f62e33]" name="tearDown" is-config="true" duration-ms="596" started-at="2020-05-17T16:16:18Z" finished-at="2020-05-17T16:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testCases.AllActivitiesTest -->
+    </test> <!-- DemoQaTest -->
+  </suite> <!-- Suite -->
+</testng-results>
